@@ -5,7 +5,8 @@ I build stuff for Minecraft servers. I work mostly with Java (JDK 21) and Skript
 ## 🛠️ Experience
 
 ![Java](https://img.shields.io/badge/Java-JDK_21-007396?style=for-the-badge&logo=openjdk)
-![Skript](https://img.shields.io/badge/Skript-Scripting-70238c?style=for-the-badge)
+![Skript](https://img.shields.io/badge/Skript-70238c?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Plugin_Dev-784f34?style=for-the-badge&logo=minecraft)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -17,7 +18,7 @@ I build stuff for Minecraft servers. I work mostly with Java (JDK 21) and Skript
 You can see the rest of my work in my portfolio here: https://isthatmelon.github.io/website/
 Most of my work is private*
 ### Black Market
-A shop menu where players can buy illegal items using in-game currency. It's built for server economies.
+A shop menu where players can buy illegal items using in-game money. It's built for server economies.
 
 ### Custom Scripts & Frameworks
 A mix of Java tools and Skripts I've made to handle server logic and custom messaging.
