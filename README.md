@@ -13,8 +13,9 @@ I build stuff for Minecraft servers. I work mostly with Java (JDK 21) and Skript
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ## 🚀 Projects
-Most of my work is private*
+
 You can see the rest of my work in my portfolio here: https://isthatmelon.github.io/website/
+Most of my work is private*
 
 ### Black Market
 A shop menu where players can buy illegal items using in-game money. It's built for server economies.
