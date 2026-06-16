@@ -17,7 +17,7 @@ I build stuff for Minecraft servers. I work mostly with Java (JDK 21) and Skript
 You can see the rest of my work in my portfolio here: https://isthatmelon.github.io/website/
 Most of my work is private*
 ### Black Market
-A shop menu where players can buy illegal items using in-game money. It's built for server economies.
+A shop menu where players can buy illegal items using in-game currency. It's built for server economies.
 
 ### Custom Scripts & Frameworks
 A mix of Java tools and Skripts I've made to handle server logic and custom messaging.
