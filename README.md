@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm IsThatMelon 👋
 
-<!--
-**IsThatMelon/IsThatMelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build stuff for Minecraft servers. I work mostly with Java (JDK 21) and Skript. I like making systems that are clean and easy for server admins to use, with a big focus on making sure everything looks good with custom colors and text.
 
-Here are some ideas to get you started:
+## 🛠️ Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-JDK_21-007396?style=for-the-badge&logo=openjdk)
+![Skript](https://img.shields.io/badge/Skript-Scripting-70238c?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/Minecraft-Plugin_Dev-784f34?style=for-the-badge&logo=minecraft)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+## 🚀 Projects
+
+You can see the rest of my work in my portfolio here: https://isthatmelon.github.io/website/
+
+### Black Market
+A shop menu where players can buy illegal items using in-game money. It's built for server economies.
+
+### Custom Scripts & Frameworks
+A mix of Java tools and Skripts I've made to handle server logic and custom messaging.
